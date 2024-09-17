@@ -1,8 +1,9 @@
 body {
   font-family: "Montserrat", sans-serif;
 }
+
 .img {
-  width: 50%;
+  width: 100%;
 }
 
 section {
@@ -16,7 +17,23 @@ section {
   background-color: lightsalmon;
   border: 6px tomato solid;
   border-radius: 15px;
-  padding: 6px;
+  padding: 1px;
+}
+
+.fase1 {
+    width: 200px;
+    background-color: lightskyblue;
+    border: 6px steelblue solid;
+    border-radius: 15px;
+    padding: 1px;
+}
+
+.fase2 {
+    width: 200px;
+    background-color: turquoise;
+    border: 6px teal solid;
+    border-radius: 15px;
+    padding: 1px;
 }
 
 .precio {

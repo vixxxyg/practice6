@@ -1,0 +1,35 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+.img {
+  width: 50%;
+}
+
+section {
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.boton {
+  width: 200px;
+  background-color: lightsalmon;
+  border: 6px tomato solid;
+  border-radius: 15px;
+  padding: 6px;
+}
+
+.precio {
+  font-family: "Glegoo";
+  font-size: 2em;
+  flex: 1;
+}
+
+.imagen {
+  width: 50%;
+}
+
+.descripcion {
+  font-size: 1.2em;
+  text-align: center;
+}
